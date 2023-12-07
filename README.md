@@ -1,1 +1,2 @@
-# dos_course_homee
+# Owner avatar
+Distribuated-operating-system-home
